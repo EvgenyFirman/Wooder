@@ -1,0 +1,10 @@
+@media(max-width:1350px) {
+    .furniture-section__left {
+        margin-right: 15%;
+        
+    }
+    .wooder-quality__description {
+        padding: 0 5% 0;
+    }
+}
+
